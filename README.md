@@ -25,4 +25,3 @@ sales_prediction_pipeline/
 ├── README.md                              # Project overview and setup instructions
 ├── docker-compose.yml                     # Docker Compose file to set up Airflow and dependencies
 └── requirements.txt                       # Required libraries for the entire project
-
